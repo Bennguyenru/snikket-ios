@@ -4,12 +4,12 @@
 <dict>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.snikket.shared</string>
-		<string>group.snikket.share</string>
+		<string>group.com.hxg.italks.shared</string>
+		<string>group.com.hxg.italks.share</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)org.snikket.ios.Share</string>
+		<string>$(AppIdentifierPrefix)com.hxg.italks.Share</string>
 	</array>
 </dict>
 </plist>

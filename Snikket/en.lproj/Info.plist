@@ -30,7 +30,7 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>org.snikket.ios</string>
+			<string>com.hxg.italks</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>xmpp</string>

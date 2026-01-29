@@ -1866,7 +1866,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.2.1;
-				PRODUCT_BUNDLE_IDENTIFIER = org.snikket.ios.Share2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hxg.italks.Share2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -1899,7 +1899,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.2.1;
-				PRODUCT_BUNDLE_IDENTIFIER = org.snikket.ios.Share2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hxg.italks.Share2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "Snikket/SiskinIM-Bridging-Header.h";
@@ -1937,7 +1937,7 @@
 				MARKETING_VERSION = 1.2.1;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = org.snikket.ios.NotificationService2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hxg.italks.NotificationService2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -1976,7 +1976,7 @@
 				);
 				MARKETING_VERSION = 1.2.1;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = org.snikket.ios.NotificationService2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hxg.italks.NotificationService2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "Snikket/SiskinIM-Bridging-Header.h";
@@ -2021,7 +2021,7 @@
 				MARKETING_VERSION = 1.2.1;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = org.snikket.ios.Shared;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hxg.italks.Shared;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
@@ -2070,7 +2070,7 @@
 				);
 				MARKETING_VERSION = 1.2.1;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = org.snikket.ios.Shared;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hxg.italks.Shared;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
@@ -2240,8 +2240,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.2.1;
-				PRODUCT_BUNDLE_IDENTIFIER = org.snikket.ios;
-				PRODUCT_NAME = Snikket;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hxg.italks;
+				PRODUCT_NAME = ITalks;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				STRIP_INSTALLED_PRODUCT = NO;
@@ -2285,8 +2285,8 @@
 				);
 				MARKETING_VERSION = 1.2.1;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = org.snikket.ios;
-				PRODUCT_NAME = Snikket;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hxg.italks;
+				PRODUCT_NAME = ITalks;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				STRIP_INSTALLED_PRODUCT = NO;
