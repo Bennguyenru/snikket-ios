@@ -1,5 +1,10 @@
 {
   "expo": {
+    "name": "ITalks by hxg",
+    "slug": "snikket-ios",
+    "ios": {
+      "bundleIdentifier": "com.hxg.italks"
+    },
     "extra": {
       "eas": {
         "projectId": "49cfc6a3-9f80-4c17-be20-14e3c6b89c83"
